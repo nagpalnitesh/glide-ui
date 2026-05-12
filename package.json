@@ -1,6 +1,6 @@
 {
   "name": "glideui-core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Animated React Native components for Expo. Copy-paste or install. Dark mode first.",
   "main": "src/index.ts",
   "types": "src/index.ts",

@@ -1,5 +1,5 @@
-// GlideUI — Animated React Native components for Expo
-// glideui.dev
+// glideui-core — Animated React Native components for Expo
+// glideui.dev | npm: glideui-core
 
 // Theme
 export * from './theme';

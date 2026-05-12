@@ -9,22 +9,22 @@
 ## Install
 
 ```bash
-npm install @glide-ui/core
+npm install glideui-core
 # or
-bun add @glide-ui/core
+bun add glideui-core
 # or
-yarn add @glide-ui/core
+yarn add glideui-core
 ```
 
 ## Usage
 
 ```tsx
-import { Button, Badge, Card, Input, Avatar, Skeleton } from '@glide-ui/core';
+import { Button, Badge, Card, Input, Avatar, Skeleton } from 'glideui-core';
 
 export default function App() {
   return (
     <Card>
-      <Avatar name="Nitesh Nagpal" status="online" />
+      <Avatar name="John Doe" status="online" />
       <Input label="Email" placeholder="your@email.com" />
       <Button onPress={() => console.log('pressed!')}>
         Get started

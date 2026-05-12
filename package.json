@@ -1,16 +1,40 @@
 {
-  "name": "@glide-ui/core",
+  "name": "glideui-core",
   "version": "0.1.0",
   "description": "Animated React Native components for Expo. Copy-paste or install. Dark mode first.",
   "main": "src/index.ts",
   "types": "src/index.ts",
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nagpalnitesh/glide-ui"
+    "url": "https://github.com/indiepilotai/glide-ui"
   },
-  "keywords": ["react-native", "expo", "components", "ui", "animated", "dark-mode", "typescript"],
-  "author": "Nitesh Nagpal",
+  "homepage": "https://glideui.dev",
+  "bugs": {
+    "url": "https://github.com/indiepilotai/glide-ui/issues"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "components",
+    "ui",
+    "animated",
+    "dark-mode",
+    "typescript",
+    "glideui",
+    "mobile",
+    "component-library"
+  ],
+  "author": "Nitesh Nagpal <niteshnagpal@outlook.com>",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "peerDependencies": {
     "react": ">=18.0.0",
     "react-native": ">=0.73.0",

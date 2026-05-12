@@ -11,11 +11,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/indiepilotai/glide-ui"
+    "url": "https://github.com/nagpalnitesh/glide-ui"
   },
   "homepage": "https://glideui.dev",
   "bugs": {
-    "url": "https://github.com/indiepilotai/glide-ui/issues"
+    "url": "https://github.com/nagpalnitesh/glide-ui/issues"
   },
   "keywords": [
     "react-native",

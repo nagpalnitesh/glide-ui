@@ -22,3 +22,15 @@ export type { SkeletonProps } from './components/Skeleton';
 
 export { Avatar, AvatarGroup } from './components/Avatar';
 export type { AvatarProps, AvatarSize } from './components/Avatar';
+
+export { Switch } from './components/Switch';
+export type { SwitchProps } from './components/Switch';
+
+export { Toast } from './components/Toast';
+export type { ToastProps, ToastVariant, ToastPosition } from './components/Toast';
+
+export { Progress, CircularProgress, SteppedProgress } from './components/Progress';
+export type { ProgressProps, CircularProgressProps, SteppedProgressProps } from './components/Progress';
+
+export { Modal, AlertModal } from './components/Modal';
+export type { ModalProps, ModalVariant, AlertModalProps } from './components/Modal';
